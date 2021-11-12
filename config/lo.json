@@ -1,0 +1,11 @@
+{
+  "port": 8080,
+  "mongo": {
+    "host": "localhost",
+    "port": "27027",
+    "dbname": "ecommerce",
+    "username": "root",
+    "password": "root",
+    "cluster": "cluster0.4pg5u"
+  }
+}

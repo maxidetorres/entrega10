@@ -1,0 +1,19 @@
+h1 {
+    color: blue;
+}
+
+label {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.jumbotron {
+    min-height: 100vh;
+}
+
+.login{
+    background-color: #BBFFD2;
+}
+.loginText{
+    color: #00C07B
+}
